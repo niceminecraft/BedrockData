@@ -379,6 +379,10 @@
         "runtime_id": -277,
         "component_based": false
     },
+    "minecraft:black_wool": {
+        "runtime_id": -554,
+        "component_based": false
+    },
     "minecraft:blast_furnace": {
         "runtime_id": -196,
         "component_based": false
@@ -417,6 +421,10 @@
     },
     "minecraft:blue_ice": {
         "runtime_id": -11,
+        "component_based": false
+    },
+    "minecraft:blue_wool": {
+        "runtime_id": -563,
         "component_based": false
     },
     "minecraft:boat": {
@@ -501,6 +509,10 @@
     },
     "minecraft:brown_mushroom_block": {
         "runtime_id": 99,
+        "component_based": false
+    },
+    "minecraft:brown_wool": {
+        "runtime_id": -555,
         "component_based": false
     },
     "minecraft:bubble_column": {
@@ -1015,6 +1027,10 @@
         "runtime_id": 229,
         "component_based": false
     },
+    "minecraft:cyan_wool": {
+        "runtime_id": -559,
+        "component_based": false
+    },
     "minecraft:dark_oak_boat": {
         "runtime_id": 380,
         "component_based": false
@@ -1077,6 +1093,10 @@
     },
     "minecraft:deadbush": {
         "runtime_id": 32,
+        "component_based": false
+    },
+    "minecraft:decorated_pot": {
+        "runtime_id": -551,
         "component_based": false
     },
     "minecraft:deepslate": {
@@ -2187,6 +2207,10 @@
         "runtime_id": 227,
         "component_based": false
     },
+    "minecraft:gray_wool": {
+        "runtime_id": -553,
+        "component_based": false
+    },
     "minecraft:green_candle": {
         "runtime_id": -426,
         "component_based": false
@@ -2201,6 +2225,10 @@
     },
     "minecraft:green_glazed_terracotta": {
         "runtime_id": 233,
+        "component_based": false
+    },
+    "minecraft:green_wool": {
+        "runtime_id": -560,
         "component_based": false
     },
     "minecraft:grindstone": {
@@ -2663,6 +2691,10 @@
         "runtime_id": 223,
         "component_based": false
     },
+    "minecraft:light_blue_wool": {
+        "runtime_id": -562,
+        "component_based": false
+    },
     "minecraft:light_gray_candle": {
         "runtime_id": -421,
         "component_based": false
@@ -2673,6 +2705,10 @@
     },
     "minecraft:light_gray_dye": {
         "runtime_id": 402,
+        "component_based": false
+    },
+    "minecraft:light_gray_wool": {
+        "runtime_id": -552,
         "component_based": false
     },
     "minecraft:light_weighted_pressure_plate": {
@@ -2697,6 +2733,10 @@
     },
     "minecraft:lime_glazed_terracotta": {
         "runtime_id": 225,
+        "component_based": false
+    },
+    "minecraft:lime_wool": {
+        "runtime_id": -559,
         "component_based": false
     },
     "minecraft:lingering_potion": {
@@ -2769,6 +2809,10 @@
     },
     "minecraft:magenta_glazed_terracotta": {
         "runtime_id": 222,
+        "component_based": false
+    },
+    "minecraft:magenta_wool": {
+        "runtime_id": -565,
         "component_based": false
     },
     "minecraft:magma": {
@@ -3207,6 +3251,10 @@
         "runtime_id": 221,
         "component_based": false
     },
+    "minecraft:orange_wool": {
+        "runtime_id": -557,
+        "component_based": false
+    },
     "minecraft:oxidized_copper": {
         "runtime_id": -343,
         "component_based": false
@@ -3297,6 +3345,10 @@
     },
     "minecraft:pink_glazed_terracotta": {
         "runtime_id": 226,
+        "component_based": false
+    },
+    "minecraft:pink_wool": {
+        "runtime_id": -566,
         "component_based": false
     },
     "minecraft:piston": {
@@ -3515,6 +3567,10 @@
         "runtime_id": 219,
         "component_based": false
     },
+    "minecraft:purple_wool": {
+        "runtime_id": -564,
+        "component_based": false
+    },
     "minecraft:purpur_block": {
         "runtime_id": 201,
         "component_based": false
@@ -3669,6 +3725,10 @@
     },
     "minecraft:redstone_wire": {
         "runtime_id": 55,
+        "component_based": false
+    },
+    "minecraft:red_wool": {
+        "runtime_id": -556,
         "component_based": false
     },
     "minecraft:reinforced_deepslate": {
@@ -4179,6 +4239,10 @@
         "runtime_id": 595,
         "component_based": false
     },
+    "minecraft:suspicious_sand": {
+        "runtime_id": -529,
+        "component_based": false
+    },
     "minecraft:sweet_berries": {
         "runtime_id": 287,
         "component_based": false
@@ -4217,6 +4281,14 @@
     },
     "minecraft:torch": {
         "runtime_id": 50,
+        "component_based": false
+    },
+    "minecraft:torchflower": {
+        "runtime_id": -568,
+        "component_based": false
+    },
+    "minecraft:torchflower_crop": {
+        "runtime_id": -567,
         "component_based": false
     },
     "minecraft:totem_of_undying": {
@@ -4567,6 +4639,10 @@
         "runtime_id": 220,
         "component_based": false
     },
+    "minecraft:white_wool": {
+        "runtime_id": 35,
+        "component_based": false
+    },
     "minecraft:witch_spawn_egg": {
         "runtime_id": 452,
         "component_based": false
@@ -4627,10 +4703,6 @@
         "runtime_id": 308,
         "component_based": false
     },
-    "minecraft:wool": {
-        "runtime_id": 35,
-        "component_based": false
-    },
     "minecraft:writable_book": {
         "runtime_id": 515,
         "component_based": false
@@ -4657,6 +4729,10 @@
     },
     "minecraft:yellow_glazed_terracotta": {
         "runtime_id": 224,
+        "component_based": false
+    },
+    "minecraft:yellow_wool": {
+        "runtime_id": -558,
         "component_based": false
     },
     "minecraft:zoglin_spawn_egg": {
